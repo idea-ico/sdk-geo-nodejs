@@ -1,5 +1,7 @@
 # Geo Node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/XYOracleNetwork/sdk-geo-nodejs.svg)](https://greenkeeper.io/)
+
 ![logo](https://raw.githubusercontent.com/GeoProof/geoproof.github.io/master/img/geo_3.png)
 
 The code for a Node (a trusted device).
