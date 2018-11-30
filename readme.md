@@ -38,3 +38,6 @@ Connect to the Geo Node by running the [Geo User Client](https://github.com/XYOr
 Geo Node signs a message (using Web3) of the user's address, received via bluetooth, and the current timestamp in the form `address|timestamp`. Geo then sends the signature back to the user via bluetooth for the user to store.
 
 Geo Node posts checkins to a [Geo Server](https://github.com/XYOracleNetwork/geo-server) running at the url specified in the `.env` file. This can be a server run by the user running the Geo Node.
+
+<br><hr><br>
+<p align="center">Made with  ❤️  by [<b>XY - The Persistent Company</b>] (https://xy.company)</p>
